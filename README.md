@@ -2,7 +2,7 @@
 这里有美团启动页面小人奔跑
 
 #奔跑代码如下
-private void initData() {
+*private void initData() {
 
 		mImageView.setBackgroundResource(R.anim.frame);
 		// 通过ImageView对象拿到背景显示的AnimationDrawable
